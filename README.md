@@ -14,4 +14,4 @@ e interação com APIs de backend.
 
 ## Observação
 Este projeto faz parte de um sistema maior de automação
-e evolui conforme novos módulos e fluxos são adicionados.
+e evolui conforme novos módulos e fluxos são adicionados. 
