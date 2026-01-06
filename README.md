@@ -15,3 +15,6 @@ e interação com APIs de backend.
 ## Observação
 Este projeto faz parte de um sistema maior de automação
 e evolui conforme novos módulos e fluxos são adicionados. 
+⚠️ Observação:
+O sistema não fornece valores finais automaticamente.
+Toda estimativa é orientativa e sujeita à avaliação artística.
